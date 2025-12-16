@@ -24,10 +24,10 @@
 
 
 
-  -تمامی خطاها را هندل میکند![Uploading Screenshot 2025-12-16 111541.png…]()
-.
+  -تمامی خطاها را هندل میکند
+.<img width="815" height="671" alt="Screenshot 2025-12-16 111754" src="https://github.com/user-attachments/assets/f67692e5-2336-4809-af5d-09b87498cf77" />
+
       -401: خطای سرور
       -404: اسم شهر اشتباه است
       -429: درخواست بیش از حد مجاز
       -سایر خطاهای ناشناخته
-      <img width="709" height="507" alt="Screenshot 2025-09-27 121018" src="https://github.com/user-attachments/assets/c3e6ca05-75da-4781-ba09-6b95e7935d0c" />
