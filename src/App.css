@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+
+@font-face {
+  font-family: Vazirmatn FD;
+  src: url('../public/font/ttf/Vazirmatn-FD-Light.ttf') format('ttf');
+  src: url("../public/font/webfonts/Vazirmatn-FD-Light.woff2") format('woff2');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+#root {
+  font-family: Vazirmatn FD;
+  width: 100%;
+  padding: 0 1rem;
+  margin: 0 auto;
+  text-align: center;
+  box-sizing: border-box;
+
+}
+
+
+input:focus-visible{
+  outline: 0;
+}
+
+canvas{
+  width: 90% !important;
+  height: 90% !important;
+}
